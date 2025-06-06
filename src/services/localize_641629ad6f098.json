@@ -2,7 +2,19 @@
     "en-GB": {
       "default": {
         "verifiedAccount": "Verified account",
-        "Lean": "Test"
+        "Lean": "Test",
+         "error": {
+            "codeError": "The verification code is not correct",
+            "[NAME]": "Termsandconditions",
+             "beta": {
+                "prepareForLaunch": "Prepare for launch",
+                "[NAME]": "Beta",
+                "joinOurBeta": "Join our Beta!",
+                "joinSectionSubtitle": "Stay ahead of the curve and be one of the first people to experience our Zoop ecosystem.",
+                "joinSectionButton": "Explore Zoop",
+                "beta": "BETA"
+            }
+         }
       },
       "lang": {
         "en-US": "English",
