@@ -1,0 +1,20 @@
+{
+    "en-GB": {
+      "default": {
+        "verifiedAccount": "Verified account",
+        "Lean": "Test"
+      },
+      "lang": {
+        "en-US": "English",
+        "pt-PT": "Português"
+      },
+      "messages": {
+        "messagesTitle": "MESSAGES",
+        "[NAME]": "Messages",
+        "messagesStayTuned": "Stay tuned, messages are coming soon!"
+      },
+      "groups": {
+        "connect": "Connect Hi Hi"
+      }
+    }
+}
