@@ -39,6 +39,9 @@
     },
     "cat": {
       "action": "meow"
+    },
+    "snake": {
+      "action": "bite"
     }
 }
 }
