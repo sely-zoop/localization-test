@@ -33,6 +33,9 @@
     "forget": "Forget",
      "support": {
         "help": "Customer help"
+    },
+    "dog": {
+      "action": "barking"
     }
 }
 }
