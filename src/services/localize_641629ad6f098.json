@@ -36,6 +36,9 @@
     },
     "dog": {
       "action": "barking"
+    },
+    "cat": {
+      "action": "meow"
     }
 }
 }
