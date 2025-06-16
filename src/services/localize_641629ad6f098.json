@@ -28,6 +28,161 @@
       },
       "groups": {
         "connect": "Connect Hi Hi"
+      },
+  "select_language": "Select language",
+  "buy_again": "Buy again",
+  "something_went_wrong": "Something went wrong. Please try again.",
+  "success": "Success",
+  "onboarding_quests": "Onboarding Quests",
+  "write_message": "Write a message",
+  "monetization": "Monetization",
+  "paid_subscription": "Paid subscription",
+  "post_content_label": "Post content",
+  "submission_open_modal": {
+    "eurovision_asia": "Eurovision Asia:\nSubmissions Are Open!",
+    "title": "Want to represent your country on a big stage?",
+    "description": "Eurovision is a renowned international song contest uniting nations through music. Now, Eurovision Asia brings this spectacular event to our region! If you sing, perform, or write songs, seize this unique opportunity to showcase your talent and be part of a truly special global musical journey.",
+    "learn_more": "Learn more",
+    "participating_countries": "Participating Countries:"
+  },
+  "add_more": "Add more",
+  "delete_product": "Delete product",
+  "stop_sale": "Stop sale",
+  "mark_as_all_read": "Mark as all read",
+  "mark_as_read": "Mark as read",
+  "unread_other": "unread",
+  "read_other": "read",
+  "badges": "badges",
+  "club_other": "Clubs",
+  "pinned": "Pinned",
+  "edit_post": "Edit post",
+  "pin_post": "Pin post",
+  "unpin_post": "Unpin post",
+  "delete_post": "Delete post",
+  "block_creator": "Block creator",
+  "block_user": "Block user",
+  "new_post": "New post",
+  "new_post_description": "Write the post content",
+  "media": "Media",
+  "audio": "Audio",
+  "poll": "Poll",
+  "unable_verify_your_identity": "Unfortunately, we were unable to verify your identity.",
+  "create_post_form": {
+    "post_options": "Post options",
+    "allow_comments": "Allow comments",
+    "require_subscription": "Require subscription",
+    "require_subscription_info": "When enabled, only members with a paid subscription can access it.",
+    "success_created_post_message": "Your post was successfully created",
+    "success_updated_post_message": "Your post was successfully updated"
+  },
+  "create_poll": {
+    "question": "Question",
+    "question_placeholder": "Write the poll question",
+    "option_one": "Option",
+    "option_other": "Options",
+    "add_option": "Add option",
+    "duration:": "Duration",
+    "duration_list": {
+      "no_limit": "No limit",
+      "1_day": "1 day",
+      "3_days": "3 days",
+      "7_days": "7 days",
+      "30_days": "30 days"
+    }
+  },
+  "create_post_media": {},
+  "fan": {
+    "tabs": {
+      "home": "Home",
+      "discover": "Discover",
+      "products": "Products",
+      "rewards": "Rewards",
+      "profile": "Profile"
+    },
+    "home": {
+      "tabs": {
+        "trending": "Trending",
+        "your_clubs": "Your clubs",
+        "eurovision": "Eurovision"
+      }
+    },
+    "discover": {
+      "tabs": {
+        "trending": "Trending",
+        "eurovision": "Eurovision",
+        "creators": "Creators",
+        "verticals": "Verticals"
       }
     }
+  },
+  "creator": {
+    "tabs": {
+      "home": "My club",
+      "insights": "Insights",
+      "new_post": "New post",
+      "shop": "Creator shop",
+      "profile": "Profile"
+    },
+    "edit_profile": {
+      "add_link": "Add {{selectedPlatform}} Link",
+      "connect": "Connect",
+      "added": "Added",
+      "social_media": "Social media",
+      "image_size_at_least_256x256": "Image size at least 256x256",
+      "file_type_jpg_jpeg_png_webp_and_heic": "File type: jpg, jpeg. png. webp and heic",
+      "general": "General",
+      "bio_placeholder": "Introduce yourself! Share your passions, what your content is about, and what members can expect from you."
+    },
+    "shop": {
+      "exclusive_content": "Exclusive content",
+      "exclusive_content_description": "Share PDFs, guides, videos, and more that can buy.",
+      "ask_me_anything": "Ask me anything",
+      "ask_me_anything_description": "Offer one-time audio, video, or text responses tailored to members requests",
+      "video_call": "Video call",
+      "video_call_description": "Connect one-on-one with members over a scheduled video call.",
+      "name_modal": "Give it a name",
+      "name_modal_helper": " Choose a clear, catchy title that tells members exactly what they'll get.",
+      "title": "Title",
+      "title_placeholder": "e.g., Exclusive Fitness Plan, Personalized Business Advice",
+      "description": "Description",
+      "description_placeholder": "Tell your members what this Club Pass is all about",
+      "price_modal": "Set your price",
+      "price_modal_helper": "Choose how much members will pay for this product. You can always adjust pricing later.",
+      "content_modal": "Add your content",
+      "content_modal_upload": "Upload your files",
+      "content_modal_upload_helper": "Minimum PDFs, videos, guides for members to download.",
+      "response_format_modal": "Response format",
+      "response_format_modal_helper": "Choose how much members will pay for this product. You can always adjust pricing later.",
+      "cover_photo_modal": "Add a cover photo",
+      "cover_photo_modal_upload": "Upload your cover photo",
+      "cover_photo_modal_upload_helper": "Minimum size: 686 x 958px",
+      "review_modal": "Review your product",
+      "response_format": "Response format",
+      "availability": "Availability",
+      "publish_product": "Publish product"
+    }
+  },
+  "eurovision": {
+    "submit_your_audition": {
+      "title": "Submit your audition",
+      "submit_audition": "Submit audition",
+      "submission_rules": "Submission rules",
+      "upload_audition": "Upload audition",
+      "description": "Description",
+      "description_placeholder": "Add a short description to your audition.",
+      "post_options": "Post options",
+      "allow_comments": "Allow comments",
+      "submit_now": "Submit now",
+      "info_text": "This video will be reviewed by AI first, then by human judges. You may only submit one audition per account. Once submitted, videos cannot be edited or replaced.",
+      "video_audition_guidelines": "Video Audition Guidelines",
+      "video_audition_guidelines_content": "Record yourself singing a cover or original song. This will be your official audition for Eurovision Asia. Please follow the steps and requirements below carefully.",
+      "technical_requirements": "Technical Requirements",
+      "technical_requirements_content": "Video format: .mp4 or .mov \nMinimum resolution: 720 × 1280 (portrait) \nMinimum duration: 3 minutes (180 seconds) \nMaximum file size: 500 MB \nLighting: Bright and even (e.g. in front of a window) \nAudio: Clear and audible—avoid background noise",
+      "recording_instructions": "Recording Instructions",
+      "recording_instructions_content": "Perform one full song, either a cover or an original. \nPerform live — lip-syncing, filters, or heavy post-processing will lead to disqualification. \nMake sure your face and voice are clearly visible and audible at all times.",
+      "tips_for_better_quality": "Tips for Better Quality",
+      "tips_for_better_quality_content": "Use a tripod or stable surface to keep your camera still. \nRecord in a quiet indoor environment. \nPreview your video before uploading to check clarity and audio. \nDress as if you're on stage—your style and personality matter!"
+    }
+  }
+}
 }
