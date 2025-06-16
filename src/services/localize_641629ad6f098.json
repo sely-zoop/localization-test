@@ -29,6 +29,10 @@
       "groups": {
         "connect": "Connect Hi Hi"
       },
-    "select_language": "Select language"
+    "select_language": "Select language",
+    "forget": "Forget",
+     "support": {
+        "help": "Customer help"
+    }
 }
 }
