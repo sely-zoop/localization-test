@@ -42,6 +42,9 @@
     },
     "snake": {
       "action": "bite"
+    },
+    "horse": {
+      "action": "run"
     }
 }
 }
